@@ -10,3 +10,5 @@ This program runs on Windows and is used to display images.
 Just like Donut Master said, you can rotate wallpapers to remind you of your creative goals or ignite your passion for learning. 
 I chose to develop this program to remind me to move towards my goals every day. 
 Thank you for your use~
+
+KK_CSK WECHAT:13916607485
